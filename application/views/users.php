@@ -183,7 +183,7 @@
 																	<div class="fv-row mb-7">
 																		<!--begin::Label-->
 																		<label
-																			class="d-block fw-semibold fs-6 mb-5">Avatar</label>
+																			class="d-block fw-semibold fs-6 mb-5">Profile Picture</label>
 																		<!--end::Label-->
 																		<!--begin::Image placeholder-->
 																		<style>
@@ -264,8 +264,7 @@
 																		<!--begin::Input-->
 																		<input type="text" name="user_name"
 																			class="form-control form-control-solid mb-3 mb-lg-0"
-																			placeholder="Full name"
-																			value="Emma Smith" />
+																			placeholder="" />
 																		<!--end::Input-->
 																	</div>
 																	<!--end::Input group-->
@@ -278,8 +277,7 @@
 																		<!--begin::Input-->
 																		<input type="email" name="user_email"
 																			class="form-control form-control-solid mb-3 mb-lg-0"
-																			placeholder="example@domain.com"
-																			value="smith@kpmg.com" />
+																			placeholder=""/>
 																		<!--end::Input-->
 																	</div>
 																	<!--end::Input group-->
